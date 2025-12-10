@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida FHD" tvg-logo="https://i.postimg.cc/9fsQYFKk/TVAPARECIDA.png" group-title="➡️ RELIGIOSOS",TV Aparecida FHD
+http://cdnflash.top:80/365337384/559780620/6682295.ts
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida HD" tvg-logo="https://i.postimg.cc/9fsQYFKk/TVAPARECIDA.png" group-title="➡️ RELIGIOSOS",TV Aparecida HD
+http://cdnflash.top:80/365337384/559780620/6682296.ts
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida SD" tvg-logo="https://i.postimg.cc/9fsQYFKk/TVAPARECIDA.png" group-title="➡️ RELIGIOSOS",TV Aparecida SD
+http://cdnflash.top:80/365337384/559780620/6682297.ts
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://i.postimg.cc/zBsp2fNG/AMC.png" group-title="➡️ FILMES & SERIES",AMC FHD 
 http://cdnflash.top:80/365337384/559780620/6681892.ts
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC H265" tvg-logo="https://i.postimg.cc/zBsp2fNG/AMC.png" group-title="➡️ FILMES & SERIES",AMC H265 
@@ -906,12 +912,6 @@ http://cdnflash.top:80/365337384/559780620/7964047.ts
 http://cdnflash.top:80/365337384/559780620/7964048.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast SD" tvg-logo="https://i.postimg.cc/sXsxQpK6/TOONCAST.png" group-title="➡️ INFANTIL",Tooncast SD
 http://cdnflash.top:80/365337384/559780620/7964049.ts
-#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida FHD" tvg-logo="https://i.postimg.cc/9fsQYFKk/TVAPARECIDA.png" group-title="➡️ RELIGIOSOS",TV Aparecida FHD
-http://cdnflash.top:80/365337384/559780620/6682295.ts
-#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida HD" tvg-logo="https://i.postimg.cc/9fsQYFKk/TVAPARECIDA.png" group-title="➡️ RELIGIOSOS",TV Aparecida HD
-http://cdnflash.top:80/365337384/559780620/6682296.ts
-#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida SD" tvg-logo="https://i.postimg.cc/9fsQYFKk/TVAPARECIDA.png" group-title="➡️ RELIGIOSOS",TV Aparecida SD
-http://cdnflash.top:80/365337384/559780620/6682297.ts
 #EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil FHD" tvg-logo="https://i.postimg.cc/nzZWNV4N/TVBRASIL.png" group-title="➡️ ABERTOS",TV Brasil FHD
 http://cdnflash.top:80/365337384/559780620/6681851.ts
 #EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil HD" tvg-logo="https://i.postimg.cc/nzZWNV4N/TVBRASIL.png" group-title="➡️ ABERTOS",TV Brasil HD
